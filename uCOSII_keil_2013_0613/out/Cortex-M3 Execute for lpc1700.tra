@@ -1,0 +1,52 @@
+*** Creating Trace Output File '.\out\Cortex-M3 Execute for lpc1700.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\out\main.o"'
+### List of Objects: adding '".\out\com_protocol.o"'
+### List of Objects: adding '".\out\uart_driver.o"'
+### List of Objects: adding '".\out\dxl_protocol.o"'
+### List of Objects: adding '".\out\flash_driver.o"'
+### List of Objects: adding '".\out\adc_driver.o"'
+### List of Objects: adding '".\out\signal_manage.o"'
+### List of Objects: adding '".\out\sensor_processor.o"'
+### List of Objects: adding '".\out\fast_math.o"'
+### List of Objects: adding '".\out\flash_filesystem.o"'
+### List of Objects: adding '".\out\fast_kinematics.o"'
+### List of Objects: adding '".\out\gait_generate.o"'
+### List of Objects: adding '".\out\i2c_driver.o"'
+### List of Objects: adding '".\out\matrix.o"'
+### List of Objects: adding '".\out\realdcm.o"'
+### List of Objects: adding '".\out\vector.o"'
+### List of Objects: adding '".\out\lpc1700pincfg.o"'
+### List of Objects: adding '".\out\target.o"'
+### List of Objects: adding '".\out\vector_table.o"'
+### List of Objects: adding '".\out\zy_if.o"'
+### List of Objects: adding '".\out\rt_sys_s.o"'
+### List of Objects: adding '".\out\rt_sys_c.o"'
+### List of Objects: adding '".\out\os_mbox.o"'
+### List of Objects: adding '".\out\os_mem.o"'
+### List of Objects: adding '".\out\os_mutex.o"'
+### List of Objects: adding '".\out\os_q.o"'
+### List of Objects: adding '".\out\os_sem.o"'
+### List of Objects: adding '".\out\os_task.o"'
+### List of Objects: adding '".\out\os_time.o"'
+### List of Objects: adding '".\out\os_core.o"'
+### List of Objects: adding '".\out\os_flag.o"'
+### List of Objects: adding '".\out\os_cpu_c.o"'
+### List of Objects: adding '".\ZY_CODE\uCOS-II\hook\uCOS-II hook.lib"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\out\main.o" ".\out\com_protocol.o" ".\out\uart_driver.o" ".\out\dxl_protocol.o" ".\out\flash_driver.o" ".\out\adc_driver.o" ".\out\signal_manage.o" ".\out\sensor_processor.o" ".\out\fast_math.o" ".\out\flash_filesystem.o" ".\out\fast_kinematics.o" ".\out\gait_generate.o" ".\out\i2c_driver.o" ".\out\matrix.o" ".\out\realdcm.o" ".\out\vector.o" ".\out\lpc1700pincfg.o" ".\out\target.o" ".\out\vector_table.o" ".\out\zy_if.o" ".\out\rt_sys_s.o" ".\out\rt_sys_c.o" ".\out\os_mbox.o" ".\out\os_mem.o" ".\out\os_mutex.o" ".\out\os_q.o" ".\out\os_sem.o" ".\out\os_task.o" ".\out\os_time.o" ".\out\os_core.o" ".\out\os_flag.o" ".\out\os_cpu_c.o" "E:\robot\¿ØÖÆÈí¼þ\resource\uCOSII_keil_2013_0613\ZY_CODE\uCOS-II\hook\uCOS-II hook.lib" 
+--scatter ".\cfg_file\Startup\InChip.sct" 
+--entry __main --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Cortex-M3 Execute for lpc1700.map" -o ".\out\Cortex-M3 Execute for lpc1700.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\out\Cortex-M3 Execute for lpc1700.axf'
+### ADS-LD Command File: '.\out\Cortex-M3 Execute for lpc1700.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\out\Cortex-M3 Execute for lpc1700.lnp', Handle=0x00000600
+### Writing '.lnp' file
+### ADS-LD Command file '.\out\Cortex-M3 Execute for lpc1700.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

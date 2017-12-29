@@ -1,0 +1,5 @@
+--cpu Cortex-M3 ".\out\main.o" ".\out\com_protocol.o" ".\out\uart_driver.o" ".\out\dxl_protocol.o" ".\out\flash_driver.o" ".\out\adc_driver.o" ".\out\signal_manage.o" ".\out\sensor_processor.o" ".\out\fast_math.o" ".\out\flash_filesystem.o" ".\out\fast_kinematics.o" ".\out\gait_generate.o" ".\out\i2c_driver.o" ".\out\matrix.o" ".\out\realdcm.o" ".\out\vector.o" ".\out\lpc1700pincfg.o" ".\out\target.o" ".\out\vector_table.o" ".\out\zy_if.o" ".\out\rt_sys_s.o" ".\out\rt_sys_c.o" ".\out\os_mbox.o" ".\out\os_mem.o" ".\out\os_mutex.o" ".\out\os_q.o" ".\out\os_sem.o" ".\out\os_task.o" ".\out\os_time.o" ".\out\os_core.o" ".\out\os_flag.o" ".\out\os_cpu_c.o" "E:\robot\¿ØÖÆÈí¼þ\resource\uCOSII_keil_2013_0613\ZY_CODE\uCOS-II\hook\uCOS-II hook.lib" 
+--scatter ".\cfg_file\Startup\InChip.sct" 
+--entry __main --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Cortex-M3 Execute for lpc1700.map" -o ".\out\Cortex-M3 Execute for lpc1700.axf"

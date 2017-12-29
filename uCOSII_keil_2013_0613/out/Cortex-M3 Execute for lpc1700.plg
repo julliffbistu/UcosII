@@ -1,0 +1,52 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+F:\humanoid2013\software\uCOSII_keil_2013_0613\Cortex-M3_Execute_for_lpc1700.uvproj
+Project File Date:  05/16/2013
+
+<h2>Output:</h2>
+Build target 'DebugInFlash'
+compiling gait_generate.c...
+USER_CODE\gait_generate.c(919): warning:  #111-D: statement is unreachable
+USER_CODE\gait_generate.c(1756): warning:  #223-D: function "GetCOMHead" declared implicitly
+USER_CODE\gait_generate.c(1760): warning:  #223-D: function "ConstructCOMPacket" declared implicitly
+USER_CODE\gait_generate.c(1768): warning:  #223-D: function "TakeSingleAction" declared implicitly
+USER_CODE\gait_generate.c(1880): warning:  #223-D: function "GetCOMHead" declared implicitly
+USER_CODE\gait_generate.c(1884): warning:  #223-D: function "ConstructCOMPacket" declared implicitly
+USER_CODE\gait_generate.c(2290): warning:  #223-D: function "TakeSingleAction" declared implicitly
+USER_CODE\gait_generate.c(2310): warning:  #223-D: function "TakeSingleAction" declared implicitly
+linking...
+Program Size: Code=55486 RO-data=3546 RW-data=548 ZI-data=14472  
+FromELF: creating hex file...
+".\out\Cortex-M3 Execute for lpc1700.axf" - 0 Error(s), 8 Warning(s).
+Build target 'DebugInFlash'
+compiling gait_generate.c...
+USER_CODE\gait_generate.c(919): warning:  #111-D: statement is unreachable
+USER_CODE\gait_generate.c(1756): warning:  #223-D: function "GetCOMHead" declared implicitly
+USER_CODE\gait_generate.c(1760): warning:  #223-D: function "ConstructCOMPacket" declared implicitly
+USER_CODE\gait_generate.c(1768): warning:  #223-D: function "TakeSingleAction" declared implicitly
+USER_CODE\gait_generate.c(1880): warning:  #223-D: function "GetCOMHead" declared implicitly
+USER_CODE\gait_generate.c(1884): warning:  #223-D: function "ConstructCOMPacket" declared implicitly
+USER_CODE\gait_generate.c(2290): warning:  #223-D: function "TakeSingleAction" declared implicitly
+USER_CODE\gait_generate.c(2310): warning:  #223-D: function "TakeSingleAction" declared implicitly
+linking...
+Program Size: Code=55486 RO-data=3546 RW-data=548 ZI-data=14472  
+FromELF: creating hex file...
+".\out\Cortex-M3 Execute for lpc1700.axf" - 0 Error(s), 8 Warning(s).
+Build target 'DebugInFlash'
+linking...
+Program Size: Code=55486 RO-data=3546 RW-data=548 ZI-data=14472  
+FromELF: creating hex file...
+".\out\Cortex-M3 Execute for lpc1700.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DebugInFlash'
+linking...
+Program Size: Code=55486 RO-data=3546 RW-data=548 ZI-data=14472  
+FromELF: creating hex file...
+".\out\Cortex-M3 Execute for lpc1700.axf" - 0 Error(s), 0 Warning(s).
+Build target 'DebugInFlash'
+linking...
+Program Size: Code=55486 RO-data=3546 RW-data=548 ZI-data=14472  
+FromELF: creating hex file...
+".\out\Cortex-M3 Execute for lpc1700.axf" - 0 Error(s), 0 Warning(s).
